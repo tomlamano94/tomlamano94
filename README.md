@@ -27,4 +27,4 @@ Building scalable pharmacy compliance tools for ASCs and health systems. Develop
 
 ### Connect
 
-[LinkedIn](https://www.linkedin.com/in/thomas-lamano-iii-pharmd/)
+[LinkedIn]([https://www.linkedin.com/in/tomlamanopharmd/])
